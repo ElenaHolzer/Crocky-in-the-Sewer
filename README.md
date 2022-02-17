@@ -1,4 +1,4 @@
-![Crocky_Titel_Entw01](https://user-images.githubusercontent.com/98030917/150504393-f19ac0f9-7a7e-4c3c-8b3b-24eb998ddb28.JPG)
+![Crocky_Titel_Entw01](https://user-images.githubusercontent.com/98030917/154456343-4bae860a-00f0-4b37-96dc-507693d4c651.png)
 
 ## Crocky in the Sewer Demo Video
 &nbsp;<a href="http://www.youtube.com/watch?feature=player_embedded&v=xWhn3w2hFZg" target="_blank"><img src="http://img.youtube.com/vi/xWhn3w2hFZg/0.jpg" alt="Preview Pic of Crocky Demo Video"/></a>
